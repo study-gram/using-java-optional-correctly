@@ -1,6 +1,6 @@
 # using-java-optional-correctly
 
-### 자바 옵셔널 재대로 사용하기
+### 자바 옵셔널 제대로 사용하기
 
 #### 참고
 
