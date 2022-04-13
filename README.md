@@ -28,3 +28,8 @@
 14. [생성자 인수에서 옵셔널을 사용하지 말것](/src/kr/springboot/examples/ex14/App.java)
 15. [Setter 에서 옵셔널을 사용하지 마라](/src/kr/springboot/examples/ex15/App.java)
 16. [메서드 인수에서 옵셔널을 사용하지 마라](/src/kr/springboot/examples/ex16/App.java)
+17. [Optional을 사용하여 빈 컬렉션이나 배열을 반환하지 말것](/src/kr/springboot/examples/ex17/App.java)
+18. [컬렉션에서 옵셔널을 사용하지 말것](/src/kr/springboot/examples/ex18/App.java)
+19. [Optional.of()와 Optional.ofNullable()을 혼동하지 말자](/src/kr/springboot/examples/ex19/App.java)
+20. [선택적 <T>를 피하고 일반이 아닌 OptionalInt, OptionalLong 또는 OptionalDouble을 선택하자](/src/kr/springboot/examples/ex20/App.java)
+21. [Equals 를 위해 Optional 을 풀 필요가 없다.](/src/kr/springboot/examples/ex21/App.java)
