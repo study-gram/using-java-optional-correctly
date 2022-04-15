@@ -33,3 +33,8 @@
 19. [Optional.of()와 Optional.ofNullable()을 혼동하지 말자](/src/kr/springboot/examples/ex19/App.java)
 20. [선택적 <T>를 피하고 일반이 아닌 OptionalInt, OptionalLong 또는 OptionalDouble을 선택하자](/src/kr/springboot/examples/ex20/App.java)
 21. [Equals 를 위해 Optional 을 풀 필요가 없다.](/src/kr/springboot/examples/ex21/App.java)
+22. [Map()과 flatMap()을 통해 값을 변환하라](/src/kr/springboot/examples/ex22/App.java)
+23. [filter()를 사용하여 미리 정의된 규칙에 따라 래핑된 값 거부하기](/src/kr/springboot/examples/ex23/App.java)
+24. [옵셔널 API랑 스트림 API의 연결이 필요할까?](/src/kr/springboot/examples/ex24/App.java)
+25. [옵셔널에 대한 신원 감지 연산 사용을 피하라](/src/kr/springboot/examples/ex25/App.java)
+26. [Optional 이 비어 있으면 Boolean 을 반환하자](/src/kr/springboot/examples/ex26/App.java)
